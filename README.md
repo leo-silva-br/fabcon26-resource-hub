@@ -1,2 +1,2 @@
-# fabcon26-resource-hub
-Curated FabCon content (100+ presentations, AI, Data, Fabric)
+# 🚀 FabCon Resource Hub
+Welcome! This is a curated collection of 100+ FabCon presentations.
